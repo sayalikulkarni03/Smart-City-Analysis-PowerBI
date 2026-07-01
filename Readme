@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is an interactive Power BI dashboard developed to analyze the performance and development of smart cities in India. It provides insights into ICT scores, internet connectivity, public transport, smart electricity, water supply, and e-Government services through interactive visualizations and filters.
+This project is an interactive Power BI dashboard developed to analyze the performance and development of Smart Cities in India. The dashboard provides insights into internet accessibility, ICT scores, smart electricity, public transportation, water supply, and e-Government services through interactive visualizations, KPIs, maps, and filters.
 
 ---
 
@@ -19,39 +19,40 @@ This project is an interactive Power BI dashboard developed to analyze the perfo
 - Internet Accessibility Analysis
 - 4G Coverage Analysis
 - Smart Electricity Analysis
-- Public Transport Analysis
-- Water Supply Insights
-- e-Government Services
+- Public Transportation Analysis
+- Water Supply Analysis
+- e-Government Services Analysis
 - ICT Score Analysis
-- City-wise Analysis
-- Year-wise Analysis
-- Interactive Filters and Slicers
+- Public Wi-Fi Availability
+- City-wise Performance Analysis
+- Year-wise Development Analysis
+- Interactive Slicers and Filters
 
 ---
 
-## 📄 Dashboard
+## 📄 Dashboard Insights
 
-The dashboard provides:
+The dashboard includes the following insights:
 
-- Internet Accessibility
-- 4G Coverage
-- Smart Electricity
-- Public Transport
-- Water Supply
-- e-Government Services
-- ICT Score Analysis
-- Public Wi-Fi Availability
-- Top Smart Cities
-- Year-wise Development
+- Internet Accessibility across Smart Cities
+- 4G Coverage Percentage
+- Smart Electricity Availability
+- Public Transportation Facilities
+- Water Supply Infrastructure
+- e-Government Service Availability
+- Top 5 Smart Cities based on ICT Score
+- Public Wi-Fi Availability by City
+- Year-wise Smart City Development
+- Interactive City and Year Filters
 
 ---
 
 ## 🎯 Skills Demonstrated
 
-- Dashboard Design
+- Power BI Dashboard Design
 - Data Visualization
+- KPI Development
 - Geographic Analysis
-- KPI Reporting
 - Interactive Reporting
 - Business Intelligence
 
@@ -75,6 +76,4 @@ The dataset used for this project is not included in this repository.
 
 ---
 
-**Sayali Kulkarni**
-
-MCA Graduate | Aspiring Data Analyst | Power BI | SQL 
+MCA Graduate | Aspiring Data Analyst | Power BI | SQL | Python
