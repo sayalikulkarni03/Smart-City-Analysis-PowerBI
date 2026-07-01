@@ -1,0 +1,80 @@
+# 🌆 Smart City Analysis Dashboard
+
+## 📌 Project Overview
+
+This project is an interactive Power BI dashboard developed to analyze the performance and development of smart cities in India. It provides insights into ICT scores, internet connectivity, public transport, smart electricity, water supply, and e-Government services through interactive visualizations and filters.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- Microsoft Excel
+- Data Visualization
+
+---
+
+## 📊 Dashboard Features
+
+- Internet Accessibility Analysis
+- 4G Coverage Analysis
+- Smart Electricity Analysis
+- Public Transport Analysis
+- Water Supply Insights
+- e-Government Services
+- ICT Score Analysis
+- City-wise Analysis
+- Year-wise Analysis
+- Interactive Filters and Slicers
+
+---
+
+## 📄 Dashboard
+
+The dashboard provides:
+
+- Internet Accessibility
+- 4G Coverage
+- Smart Electricity
+- Public Transport
+- Water Supply
+- e-Government Services
+- ICT Score Analysis
+- Public Wi-Fi Availability
+- Top Smart Cities
+- Year-wise Development
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Dashboard Design
+- Data Visualization
+- Geographic Analysis
+- KPI Reporting
+- Interactive Reporting
+- Business Intelligence
+
+---
+
+## 📁 Repository Structure
+
+```text
+Smart-City-Analysis-PowerBI
+│
+├── README.md
+├── LICENSE
+└── SmartCityDashboard.pbix
+```
+
+---
+
+## 📄 Dataset
+
+The dataset used for this project is not included in this repository.
+
+---
+
+**Sayali Kulkarni**
+
+MCA Graduate | Aspiring Data Analyst | Power BI | SQL 
