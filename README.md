@@ -69,11 +69,6 @@ Smart-City-Analysis-PowerBI
 ```
 
 ---
-
-## 📄 Dataset
-
-The dataset used for this project is not included in this repository.
-
 ---
 
 MCA Graduate | Aspiring Data Analyst | Power BI | SQL | Python
